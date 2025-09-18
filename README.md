@@ -8,7 +8,6 @@ I also added **Lottie animations, styled profile picture, and download option fo
 
 ## 🚀 Features
 - 🎨 **Modern UI** with custom headers and section dividers  
-- 🖼️ **Circular Profile Image** with CSS styling  
 - ✨ **Lottie Animations** for interactive experience  
 - 📄 **Resume Download Button** (`Resume.docx`)  
 - 🎓 Education, Skills, Projects, Certifications, and Hackathons sections  
