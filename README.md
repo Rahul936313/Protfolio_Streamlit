@@ -19,7 +19,12 @@ I also added **Lottie animations, styled profile picture, and download option fo
 
 ## 📂 Project Structure
 portfolio/
+
 │-- test.py # Main Streamlit app
+
 │-- assets/
+
 │ └──profile.jpg # Profile image
+
 │-- Resume.docx # Resume file (downloadable)
+
