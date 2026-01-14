@@ -34,7 +34,7 @@ col1, col2 = st.columns([1, 2])
 with col1:
     st.image("assets/IMG_20251103_204952.jpg", width=200)
 with col2:
-    st_lottie(lottie_coding, height=250, key="coding")
+    st_lottie(lottie_coding, height=150, key="coding")
 
 # Resume
 with open("Resume.docx", "rb") as docx_file:
